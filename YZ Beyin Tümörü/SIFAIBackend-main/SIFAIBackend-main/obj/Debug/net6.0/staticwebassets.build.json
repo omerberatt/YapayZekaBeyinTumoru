@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wFZ0SgKzHo+HwzfREr4eMrcQJ6H6Gu/gIcjnbLxkzRM=",
+  "Source": "SIFAIBackend",
+  "BasePath": "_content/SIFAIBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
